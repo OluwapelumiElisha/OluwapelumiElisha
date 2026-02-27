@@ -64,11 +64,3 @@ Let's discuss how we can collaborate on exciting projects or simply have a chat 
 </div>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/OluwapelumiElisha/OluwapelumiElisha/output/snake.svg" alt="Snake animation" />
-
-
-###
-
-<img src="https://raw.githubusercontent.com/OluwapelumiElisha/OluwapelumiElisha/output/github-contribution-grid-snake.svg" alt="snake animation" />
